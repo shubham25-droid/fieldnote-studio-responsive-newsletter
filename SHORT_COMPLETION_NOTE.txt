@@ -92,7 +92,8 @@ Target Deadline: 13 November 2026
   https://github.com/shubham25-droid/fieldnote-studio-responsive-newsletter
   (Contains verified production source code matching Newsletter_HTML_and_CSS.zip)
 
-- Submission Delivery Method: Google Drive Folder ("SkillNexaHub_Final_Submission")
+- Google Drive Deliverables Folder:
+  https://drive.google.com/drive/folders/19i779D5rmAGdXQ8Npope36tPslbSc2qp
   (Contains Newsletter_HTML_and_CSS.zip, Responsive_Test_Audit.xlsx, SHORT_COMPLETION_NOTE.txt)
 
-- Google Drive Access: To be configured as Anyone with the link - Viewer before final submission.
+- Google Drive Access: Configured as Anyone with the link - Viewer for reviewer access.
